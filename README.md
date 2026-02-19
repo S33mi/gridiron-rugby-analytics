@@ -18,7 +18,7 @@ Data-driven comparison of NFL (American Football) and Rugby Union — key stats,
 
 ## Current Notebook
 
-- `nfl_vs_rugby_comparison_eda.ipynb` → Basic stats EDA (points, tackles, concussions, player size)
+- [`nfl_vs_rugby_comparison_eda.ipynb`](https://github.com/S33mi/gridiron-rugby-analytics/blob/main/nfl_vs_rugby_comparison_eda.ipynb) → Basic stats EDA (points, tackles, concussions, player size)
 
 
 
